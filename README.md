@@ -1,18 +1,18 @@
-### Brief about me
+ ### :girl: Brief about me
 
-Hi, I'm Glory Agatevure. I am a Mobile Engineer from Nigeria. I am the co-founder of AfricInnovate a tech startup in Nigeria. I currently work as Mobile and Product Manager at AfricInnovate. I am currently working on a Fintech App using flutter. 
+Hi, I'm Glory Agatevure. I am a Mobile Engineer from Nigeria. I am the co-founder of AfricInnovate a tech startup in Nigeria :nigeria:. I currently work as Mobile and Product Manager at AfricInnovate. 
 
 I am looking to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration. To learn more about me, you can check my personal [website](agatevure.com)
 
 
 
-## I am fluent with
+## :tada: :high_brightness: I am fluent with
 I love to build mobile applications using
 - Java
 - Kotlin
 - Flutter
 
-## I also develop with 
+## :sparkles: I also develop with 
 When I am not developing mobile apps I work with
 - HTML
 - CSS
@@ -21,16 +21,16 @@ When I am not developing mobile apps I work with
 - Java Springboot
 
 
-## Work Experience
+## :dart: :hearts: Work Experience
 - Intern with Global WordNet Association via Google Season of Doc as a Technical Documentation Writer
 - Ex-intern with Wikimedia via Outreachy Internship Program as an Android Developer
 - Android Developer at KodeHauz
 
-## Some of my Apps on Playstore
+## :iphone: Some of my Apps on Playstore
 - [Devotional App](https://play.google.com/store/apps/details?id=com.pdl.pdldevotionalapp)
 - [Mastering Amazon Alexa Ebook App](https://play.google.com/store/apps/details?id=com.africinnovate.masteringamazonalexa)
 
-## Speaking Engagement
+## :speaker:	 Speaking Engagement
 
 - GDG Uyo Women Tech Makers, 2018 - Panelist
 - GDG Uyo Devfest 2019 - Making API call with Apollo Client in Android
@@ -40,7 +40,7 @@ When I am not developing mobile apps I work with
 - OSCA Fest 2020 - Panelist - Experiences Applying to Outreachy
 - She Code Africa 2020 - Open source  - How to successfully apply to Outreachy
 
-## Community Volunteering at
+## :fire: :sparkles: Community Volunteering at
 
 - GDG Eket - Organizer
 - Python Akwa Ibom - Organizer
@@ -49,7 +49,7 @@ When I am not developing mobile apps I work with
 - Python Nigeria Community - Vice-Chairperson
 - Django Software Foundation - Board Member
 
-## Open Source Contributions
+## :fire: :sparkles: Open Source Contributions
 - [Wikieducation Dashboard](https://github.com/WikiEducationFoundation/apps-android-wikiedudashboard)
 - [Gwadoc Documentation](https://github.com/globalwordnet/gwadoc)
 - [Outreachy Website](https://github.com/outreachy/website)

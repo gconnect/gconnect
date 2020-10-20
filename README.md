@@ -77,6 +77,9 @@ I identity as a she/her
 ## ⚡ Fun fact: ...👋
 
 I am a night worker and some of my friends thinks I am boring!😄
+When I am not coding I love to watch movies, I love food and I love sleep :hearts:
+
+I hope you enjoyed reading about me don't forget to hit the star button :high_brightness:
 
 
 

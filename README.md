@@ -2,7 +2,7 @@
 
 Hi, I'm Glory Agatevure. I am a Mobile Engineer from Nigeria. I am the co-founder of AfricInnovate a tech startup in Nigeria :nigeria:. I currently work as Mobile and Product Manager at AfricInnovate. 
 
-I am looking to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration. To learn more about me, you can check my personal [website](agatevure.com)
+I am looking to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration. To learn more about me, you can check my personal [website](https://agatevure.com)
 
 
 
@@ -22,9 +22,10 @@ When I am not developing mobile apps I work with
 
 
 ## :dart: :hearts: Work Experience
-- Intern with Global WordNet Association via Google Season of Doc as a Technical Documentation Writer
-- Ex-intern with Wikimedia via Outreachy Internship Program as an Android Developer
-- Android Developer at KodeHauz
+- Mobile and Product Manager at AfricInnovate 2020 - date
+- Intern with Global WordNet Association via Google Season of Doc as a Technical Documentation Writer 2019 - 2020
+- Ex-intern with Wikimedia via Outreachy Internship Program as an Android Developer 2019 - 2020
+- Android Developer - formerly at KodeHauz 2017 -2020
 
 ## :iphone: Some of my Apps on Playstore
 - [Devotional App](https://play.google.com/store/apps/details?id=com.pdl.pdldevotionalapp)
@@ -42,15 +43,16 @@ When I am not developing mobile apps I work with
 
 ## :fire: :sparkles: Community Volunteering at
 
-- GDG Eket - Organizer
-- Python Akwa Ibom - Organizer
-- Sheistechy - Founder
-- ScratchEd - Organizer
-- Python Nigeria Community - Vice-Chairperson
-- Django Software Foundation - Board Member
+- GDG Eket - Organizer 2020 - date
+- Python Akwa Ibom - Organizer 2018 - date
+- Sheistechy - Founder  2018 - date
+- ScratchEd - Organizer 2018 - date
+- Python Nigeria Community - Vice-Chairperson 2020
+- Django Software Foundation - Board Member 2019 - date
+- Andela Learning Community Mobile Facilitator and Mentor 2018
 
 ## :fire: :sparkles: Open Source Contributions
-- [Wikieducation Dashboard](https://github.com/WikiEducationFoundation/apps-android-wikiedudashboard)
+- [Wikieducation Dashboard](https://meta.wikimedia.org/wiki/User:Agatevureglory)
 - [Gwadoc Documentation](https://github.com/globalwordnet/gwadoc)
 - [Outreachy Website](https://github.com/outreachy/website)
 - [Django Girls Tutorial Project](https://github.com/DjangoGirls/tutorial)

@@ -68,7 +68,7 @@ You can ask me anything related to
 
 ## 📫 How to reach me: ...
 
-I am open for well-paid remote jobs and gigs. You can reach me on [twitter](https://twitter.com/agatevureglory) or send a [mail](agatevureglorya@gmail.com) 
+I am open for well-paid remote jobs and gigs. You can reach me on [twitter](https://twitter.com/agatevureglory) or send a [mail](mailto:agatevureglorya@gmail.com) 
 
 
 ## 😄 Pronouns: ...

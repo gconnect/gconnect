@@ -22,10 +22,11 @@ When I am not developing mobile apps I work with
 
 
 ## :dart: :hearts: Work Experience
-- Mobile and Product Manager at AfricInnovate 2020 - date
-- Intern with Global WordNet Association via Google Season of Doc as a Technical Documentation Writer 2019 - 2020
-- Ex-intern with Wikimedia via Outreachy Internship Program as an Android Developer 2019 - 2020
-- Android Developer - formerly at KodeHauz 2017 -2020
+- Co-founder and Product Manager @ AfricInnovate 2020 - date
+- Mobile Engineer @ VisionDev 2020 - date
+- Technical Writer @ Global WordNet Association  2019 - 2020
+- Android Developer @ Wikimedia via Outreachy Internship Program as an Android Developer 2019 - 2020
+- Android Developer @ KodeHauz 2017 -2019
 
 ## :iphone: Some of my Apps on Playstore
 - [Devotional App](https://play.google.com/store/apps/details?id=com.pdl.pdldevotionalapp)

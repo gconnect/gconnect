@@ -25,7 +25,7 @@ When I am not developing mobile apps I work with
 - Co-founder and Product Manager @ AfricInnovate 2020 - date
 - Mobile Engineer @ VisionDev 2020 - date
 - Technical Writer @ Global WordNet Association  2019 - 2020
-- Android Developer @ Wikimedia via Outreachy Internship Program as an Android Developer 2019 - 2020
+- Android Developer @ Wikimedia, Wikieducation Dashboard 2019 - 2020
 - Android Developer @ KodeHauz 2017 -2019
 
 ## :iphone: Some of my Apps on Playstore

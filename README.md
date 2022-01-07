@@ -17,6 +17,7 @@ When I am not developing mobile apps I work with
 - HTML
 - CSS
 - Javascript
+- React and Typescript
 - Python and Django/ Flask
 - Java Springboot
 

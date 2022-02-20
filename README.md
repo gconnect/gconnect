@@ -1,6 +1,6 @@
  ### :girl: Brief about me
 
-Hi, I'm Glory Agatevure. I am a Mobile Engineer from Nigeria. I am the co-founder of AfricInnovate a tech startup in Nigeria :nigeria:. I currently work as Mobile and Product Manager at AfricInnovate. 
+Hi, I'm Glory Agatevure. I am a Blockchain Software Engineer and Technical writer from Nigeria. I am the co-founder of AfricInnovate a tech startup in Nigeria :nigeria:. I currently work as Mobile and Product Manager at AfricInnovate. 
 
 I am looking to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration. To learn more about me, you can check my personal [website](https://agatevure.com)
 
@@ -11,6 +11,7 @@ I love to build mobile applications using
 - Java
 - Kotlin
 - Flutter
+- Javascript
 
 ## :sparkles: I also develop with 
 When I am not developing mobile apps I work with

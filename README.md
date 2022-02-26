@@ -24,7 +24,9 @@ When I am not developing mobile apps I work with
 
 
 ## :dart: :hearts: Work Experience
-- Co-founder and Product Manager @ AfricInnovate 2020 - date
+- Technical Writer @Algorand 2021 - date
+- Co-founder/Blockchain Engineer @ Surge 2021 - date
+- Co-founder Operations Manager @ AfricInnovate 2020 - date
 - Mobile Engineer @ VisionDev 2020 - date
 - Technical Writer @ Global WordNet Association  2019 - 2020
 - Android Developer @ Wikimedia, Wikieducation Dashboard 2019 - 2020

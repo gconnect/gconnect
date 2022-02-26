@@ -36,6 +36,12 @@ When I am not developing mobile apps I work with
 - [Devotional App](https://play.google.com/store/apps/details?id=com.pdl.pdldevotionalapp)
 - [Mastering Amazon Alexa Ebook App](https://play.google.com/store/apps/details?id=com.africinnovate.masteringamazonalexa)
 
+## 🕸️ Some of my Web apps
+- [Algocademy](https://algocademy.vercel.app/)
+- [Algorand DAO Template](algo-dao.netlify.app) 
+- [Algo.Finance](https://algo-defi.netlify.app/)
+
+
 ## :speaker:	 Speaking Engagement
 
 - GDG Uyo Women Tech Makers, 2018 - Panelist

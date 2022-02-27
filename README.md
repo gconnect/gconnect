@@ -12,6 +12,7 @@ I love to build mobile applications using
 - Kotlin
 - Flutter
 - Javascript
+- React & React Native
 
 ## :sparkles: I also develop with 
 When I am not developing mobile apps I work with

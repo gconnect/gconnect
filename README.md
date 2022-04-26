@@ -39,7 +39,7 @@ When I am not developing mobile apps I work with
 
 ## 🕸️ Some of my Web apps
 - [Algocademy](https://algocademy.vercel.app/)
-- [Algorand DAO Template](algo-dao.netlify.app) 
+- [Algorand DAO Template](https://algo-dao.netlify.app/) 
 - [Algo.Finance](https://algo-defi.netlify.app/)
 
 

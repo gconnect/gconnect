@@ -23,6 +23,10 @@ When I am not developing mobile apps I work with
 - Python and Django/ Flask
 - Java Springboot
 
+## Blockchain Technologies
+- Solidity/EVM
+- Pyteal & TEAL (AVM)
+-  Reach
 
 ## :dart: :hearts: Work Experience
 - Technical Writer @Algorand 2021 - date

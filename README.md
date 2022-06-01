@@ -2,7 +2,7 @@
 
 Hi, I'm Glory Agatevure. I am a Blockchain Software Engineer and Technical writer from Nigeria. I am currently exploring the Algorand Blockchain. I am the co-founder of AfricInnovate a tech startup in Nigeria :nigeria: and founding team member @Surge_women a web3 Education based platform for women.
 
-I am looking to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration. To learn more about me, you can check my personal [website](https://agatevure.com)
+I am looking to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration.
 
 
 
@@ -30,12 +30,19 @@ When I am not developing mobile apps I work with
 
 ## :dart: :hearts: Work Experience
 - Technical Writer @Algorand 2021 - date
-- Co-founder/Blockchain Engineer @ Surge 2021 - date
+- Blockchain Engineer @ Surge 2021 - date
 - Co-founder Operations Manager @ AfricInnovate 2020 - date
 - Mobile Engineer @ VisionDev 2020 - date
 - Technical Writer @ Global WordNet Association  2019 - 2020
 - Android Developer @ Wikimedia, Wikieducation Dashboard 2019 - 2020
 - Android Developer @ KodeHauz 2017 -2019
+
+## My Technical Writing Contents
+- [Medium post](https://medium.com/@agatevureglory)
+- [Algorand contents](https://developer.algorand.org/blog/) search for Glory Agatevure
+
+# Youtube Content
+- [Youtube tutorials](https://www.youtube.com/c/AGATEVUREGLORY/)
 
 ## :iphone: Some of my Apps on Playstore
 - [Devotional App](https://play.google.com/store/apps/details?id=com.pdl.pdldevotionalapp)
@@ -84,7 +91,7 @@ You can ask me anything related to
 
 ## 📫 How to reach me: ...
 
-I am open for well-paid remote jobs and gigs. You can reach me on [twitter](https://twitter.com/agatevureglory) or send a [mail](mailto:agatevureglorya@gmail.com) 
+I am open for well-paid remote jobs and gigs. You can reach me on [twitter](https://twitter.com/agatevureglory) or send a [mail](mailto:agatevureglorya@gmail.com)  and on [linkedln](https://www.linkedin.com/in/glory-agatevure-47a222ab)
 
 
 ## 😄 Pronouns: ...
@@ -98,6 +105,4 @@ I am a night worker and some of my friends thinks I am boring!😄
 When I am not coding I love to watch movies. I love food and sleep :hearts:
 
 I hope you enjoyed reading about me don't forget to hit the star button :high_brightness:
-
-
 

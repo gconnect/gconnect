@@ -26,7 +26,8 @@ When I am not developing mobile apps I work with
 ## Blockchain Technologies
 - Solidity/EVM
 - Pyteal & TEAL (AVM)
--  Reach
+- Reach
+- IPFS/Pinata
 
 ## :dart: :hearts: Work Experience
 - Technical Writer @Algorand 2021 - date

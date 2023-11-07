@@ -1,6 +1,6 @@
  ### :girl: Brief about me
 
-Hi, I'm Glory Agatevure. I am a Blockchain Software Engineer and Technical writer from Nigeria. I am currently exploring the Algorand & Celo Blockchain. I am the co-founder of AfricInnovate a tech startup in Nigeria :nigeria: and founding team member @Surge_women a web3 Education based platform for women.
+Hi, I'm Glory Agatevure. I am a Blockchain Software Engineer and Technical writer from Nigeria. I am currently passionate about blockchain/web3 technologies and exploring Cloud & DevOps. I am the co-founder of AfricInnovate a training and development startup in Nigeria :nigeria: and a founding team member of @surge_women a web3 Education platform for women. 
 
 I want to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration.
 

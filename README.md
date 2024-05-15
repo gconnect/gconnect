@@ -1,6 +1,8 @@
  ### :girl: Brief about me
 
-Hi, I'm Glory Agatevure. I am a Blockchain Software Engineer and Technical writer from Nigeria. I am currently passionate about blockchain/web3 technologies and exploring Cloud & DevOps. I am a co-founder of AfricInnovate a training and development startup with physical office in Nigeria :nigeria: a global reach Across Africa and Beyonod. I am also a founding team member of @surge_women a web3 Education platform for women. 
+Hi, I'm Glory Agatevure. I am a Blockchain Software Engineer and Technical writer from Nigeria. I am currently passionate about blockchain/web3 technologies and exploring Cloud & DevOps. I am a co-founder of AfricInnovate a training and development startup with a physical office in Nigeria :nigeria: and a global reach Across Africa and beyond. 
+
+I am also a founding team member of @surge_women a web3 Education platform for women. 
 
 I want to collaborate on any great idea that can be developed with tech. I am open to business partnership and collaboration.
 

@@ -12,7 +12,8 @@ I want to collaborate on any great idea that can be developed with tech. I am op
 ## Blockchain Languages, Tools & Technologies
 - Solidity/EVM
 - Algorand Pyteal, TEAL (AVM) and TealScript
-- Flow Cadence
+- Solana
+- Cartesi Rollup
 - Biconomy
 - Chainlink
 - Alchemy, QuickNode

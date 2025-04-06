@@ -11,6 +11,8 @@ I want to collaborate on any great idea that can be developed with tech. I am op
 
 ## Blockchain Languages, Tools & Technologies
 - Solidity/EVM
+- Rust and Go
+- Java, Javascript/Typescript, node, react & nextjs, flutter
 - Algorand Pyteal, TEAL (AVM) and TealScript
 - Solana
 - Cartesi Rollup
